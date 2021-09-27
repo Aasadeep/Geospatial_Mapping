@@ -1,23 +1,10 @@
 # Geospatial Mapping (via Python)
 
-### WRI Aqueduct 3.0 Water Risk Dataset
+## WRI Aqueduct 3.0 Water Risk Dataset 
 
-#### 2. Dataset
+#### Source
 
-The meteorological data set was acquired from ERA5 (Table 1) in a .NetCDF file format where we have 40 years of monthly mean spatio-temporal data from 1979-2018 of  Indian Subcontinent.
-
-1. Snowfall (Sf), 
-2. Surface Temperature (t2m), 
-3. Snow Cover Area (SCA), 
-4. Snow Albedo (albedo), 
-5. Snow Depth (sd), 
-6. Snow Depth Water Equivalent (sde), 
-7. Surface Sensible Heat flux (sshf), 
-8. Surface Net Solar Radiation (ssr), 
-9. Surface Net Thermal radiation (str) 
-
-
-_Horizontal Resolution Reanalysis_: 0.25° x 0.25° (atmosphere)
+Source: https://www.wri.org/data/aqueduct-global-maps-30-data
 
 #### 3. The Codes
 
