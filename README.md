@@ -31,7 +31,7 @@ The programming language used is Python. Essential libraries/functions used are:
 
 * Using `geopandas`, `pandas` & `folium`.
 
-* Run `interactive_map_india_bws.ipynb`, it will read data from WRI Aqueduct data downloaded and make Interactive World Map & labelled states in all countries, with Indian Baseline Water Risk Data plotted on top of it. 
+* Run `interactive_map_india_bws.ipynb`, it will read data from WRI Aqueduct data downloaded and make Interactive World Map & labelled states in all countries, with Indian Baseline Water Risk Data plotted on top of it as an output `interactive_map_india_bws.html`.
 
 
 
